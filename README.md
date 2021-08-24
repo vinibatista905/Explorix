@@ -1,3 +1,30 @@
+<h1 align="center">
+   Explorix
+</h1>
+
+<br>
+
+## :camera: Demonstração
+
+Confira aqui: https://explorix-website.netlify.app/
+
+## :rocket: Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+✔️ Gatsby
+
+✔️ React
+
+✔️ React Hooks
+
+✔️ Styled-components
+
+##
+
+## ⚙ Configuração
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
