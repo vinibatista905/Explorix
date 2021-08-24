@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../assets/images/travel-1.jpg",
+        "alt": "Cachoeira Dunhinda",
+        "name": "Cachoeira Dunhinda",
+        "button": "Ver Destino"
+    },
+    {
+        "img": "../assets/images/travel-2.jpg",
+        "alt": "Tian Tan Buddha",
+        "name": "Tian Tan Buddha",
+        "button": "Ver Destino"
+    },
+    {
+        "img": "../assets/images/travel-3.jpg",
+        "alt": "Praias da Grécia",
+        "name": "Praias da Grécia",
+        "button": "Ver Destino"
+    },
+    {
+        "img": "../assets/images/travel-4.jpg",
+        "alt": "Templos de Bali",
+        "name": "Templos de Bali",
+        "button": "Ver Destino"
+    }
+]
